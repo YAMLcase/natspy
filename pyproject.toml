@@ -3,7 +3,7 @@ requires = ["setuptools>=68.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "nats-py"
+name = "natspy"
 authors = [
   { name="Waldemar Quevedo", email="wally@synadia.com" },
 ]
