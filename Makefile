@@ -1,5 +1,5 @@
 REPO_OWNER=nats-io
-PROJECT_NAME=nats.py
+PROJECT_NAME=natspy
 SOURCE_CODE=nats
 
 
